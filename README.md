@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title"> konichiwa Watashi Ryuhan</h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ryuhan-minamoto/">
+  <a href="https://www.linkedin.com/in/jp-ryuhan-minamoto/">
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/7b545e20-e4e6-42d0-99a6-1015ae0d63e8">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 🌱 learning=" Learning about: Lua, React, and AI"
 🏔️ collaboration=" Tensura Interactive Project"
 💬 askMeAbout=" Anime, React, API, And More :D"
-📫 howToReachMe=" linkedin.com/in/ryuhan-minamoto"
+📫 howToReachMe=" linkedin.com/in/jp-ryuhan-minamoto"
 🏎️ pronouns="Yuhan, Ryuhan, Han, Ohan"
 🤖 funFact=" AnimeLovers :D"
 
