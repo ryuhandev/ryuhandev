@@ -9,11 +9,11 @@
    <a href="https://pvhuwung.com">
    <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
-  <a href="https://github.com/pvhuwung">
+  <a href="https://github.com/ryuhandev">
      <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=yellow" alt="page views">
   </a>
  <a href="https://github.com/?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=blue&logo=github&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ryuhandev?color=blue&logo=github&style=for-the-badge">
   </a>
 </p>
 
