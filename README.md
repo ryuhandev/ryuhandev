@@ -10,7 +10,7 @@
    <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
   <a href="https://github.com/ryuhandev">
-     <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=yellow" alt="page views">
+     <img src="https://komarev.com/ghpvc/?username=ryuhandev&style=for-the-badge&color=yellow" alt="page views">
   </a>
  <a href="https://github.com/?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ryuhandev?color=blue&logo=github&style=for-the-badge">
@@ -20,7 +20,7 @@
 <table width="100%" height="100%" >
 <tr width="60%" height="100%">
 <td >
-    <img align="left" width="18%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
+    <img align="left" width="18%" src="https://media.tenor.com/ef_emJau35YAAAAi/anime-anime-character.gif" alt="Embedded GIF">
 	
 ### Hi there! 👋
 Here are some ideas to get you started:
