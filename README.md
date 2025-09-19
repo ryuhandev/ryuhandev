@@ -1,3 +1,4 @@
+<h1 align="left" id="macropower-title"> konichiwa Watashi Ryuhan</h1>  
 <p align="left">  
   <a href="https://www.linkedin.com/in/jp-ryuhan-minamoto/">  
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  
@@ -77,3 +78,4 @@ src="https://media1.tenor.com/m/qeyN2cl_GBsAAAAC/lain.gif" alt="Embedded GIF">
     <td><a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" style="padding-right:10px;" /></a></td>  
   </tr>  
 </table>  
+
